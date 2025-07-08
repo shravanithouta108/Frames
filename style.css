@@ -1,9 +1,33 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+
+}
+body {
+
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 h1{
+    margin-top: 40px;
     text-align:center;
     color:blue;
     font-weight: 500px;
 }
 
 .container p{
-    margin: 50px 3px 0 3px;
+    margin: 50px 10px 0 10px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+  font-size:20px;
+}
+
+a:hover {
+  text-decoration: underline;
+  font-size:35px;
+  color:purple
 }

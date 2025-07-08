@@ -102,6 +102,20 @@ a:hover {
   text-decoration: underline;
 }
 
+## 📸 Preview 
+Frame
+ <img src="before.jpg" height="600px" width="800px">
+ 
+ Page1 Output
+ <img src="page1.jpg" height="600px" width="800px">
+ 
+ Page2 Output
+ <img src="page2.jpg" height="600px" width="800px">
+ 
+ Page3 Output
+ <img src="page3.jpg" height="600px" width="800px">
+
+
 ## 🚨 Note
 
 HTML frames (<frameset> and <frame>) are deprecated in HTML5 and may not work well in modern browsers. For long-term or production projects, consider using iframes or modern single-page app frameworks instead.

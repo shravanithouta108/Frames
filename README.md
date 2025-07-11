@@ -14,6 +14,11 @@ Pg 3
 
 2.Right Frame (F2): Displays the content of the selected page.
 
+## 👩‍💻 Web Technologies used
+
+ 1. HTML
+ 2. CSS
+
 ## 🔧 Setup Instructions
 
 1. Clone or download the project folder.
@@ -122,4 +127,4 @@ HTML frames (<frameset> and <frame>) are deprecated in HTML5 and may not work we
 
 # ✅ Author
 
-Created as a simple demonstration of HTML frames and internal navigation.
+Shravani Thouta ❤️
